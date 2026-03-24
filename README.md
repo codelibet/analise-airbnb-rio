@@ -43,17 +43,13 @@ O conjunto de dados analisado possui:
 
 Principais variáveis utilizadas:
 
-Variável            Descrição
-
----
-
-price               preço da diária
-neighbourhood       bairro
-room_type           tipo de acomodação
-minimum_nights      número mínimo de noites
-number_of_reviews   número de avaliações
-availability_365    disponibilidade anual
-reviews_per_month   média de avaliações mensais
+price              
+neighbourhood      
+room_type       
+minimum_nights      
+number_of_reviews  
+availability_365   
+reviews_per_month   
 
 ---
 
@@ -67,32 +63,13 @@ reviews_per_month   média de avaliações mensais
 
 ---
 
-# Etapas da análise
+# Imagens
+<img width="1382" height="831" alt="01" src="https://github.com/codelibet/analise-airbnb-rio/blob/main/images/image1.png"/>
+<img width="1382" height="831" alt="01" src="https://github.com/codelibet/analise-airbnb-rio/blob/main/images/image2.png"/>
+<img width="1382" height="831" alt="01" src="https://github.com/codelibet/analise-airbnb-rio/blob/main/images/image3.png"/>
+<img width="1382" height="831" alt="01" src="https://github.com/codelibet/analise-airbnb-rio/blob/main/images/image4.png"/>
 
-1. Exploração inicial dos dados
 
-   * estrutura do dataset
-   * valores ausentes
-   * estatísticas descritivas
-
-2. Limpeza dos dados
-
-   * remoção de colunas irrelevantes
-   * tratamento de valores nulos
-   * remoção de outliers de preço
-
-3. Análise de distribuição de anúncios
-
-   * contagem por bairro
-
-4. Análise de preços
-
-   * preço médio por bairro
-   * preço por tipo de acomodação
-
-5. Visualização geográfica
-
-   * mapa interativo com coordenadas
 
 ---
 
