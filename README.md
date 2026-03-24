@@ -163,22 +163,3 @@ A plataforma não altera a lógica urbana existente, mas a reproduz, concentrand
 
 ---
 
-# Estrutura do projeto
-
-```
-airbnb-rio-analysis
-│
-├── data
-│   └── listings.csv
-│
-├── images
-│   └── mapa_airbnb_rio.html
-│
-├── README.md
-│   
-│
-└── airbnb_rio_analysis.ipynb
-```
-
----
-
